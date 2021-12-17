@@ -1,3 +1,3 @@
 # Kang
 
-![image](./res/kang.jpeg)
+<div align=center>![image](./res/kang.jpeg)
