@@ -1,1 +1,3 @@
-# kang
+# Kang
+
+![image](./res/kang.jpeg)
