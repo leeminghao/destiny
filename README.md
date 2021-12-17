@@ -1,3 +1,5 @@
 # Kang
 
-<div align=center>![image](./res/kang.jpeg)
+<p align="center">
+    <img src="./res/kang.jpeg">
+</p>
